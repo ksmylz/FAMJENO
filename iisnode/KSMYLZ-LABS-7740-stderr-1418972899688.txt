@@ -1,0 +1,11 @@
+Error: Failed to lookup view "index"
+    at Function.app.render (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\application.js:493:17)
+    at ServerResponse.res.render (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\response.js:753:7)
+    at exports.index (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\app\routes\index.js:8:7)
+    at callbacks (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:161:37)
+    at param (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:135:11)
+    at pass (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:142:5)
+    at Router._dispatch (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:170:5)
+    at Object.router (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:33:10)
+    at next (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\node_modules\connect\lib\proto.js:199:15)
+    at Object.methodOverride [as handle] (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\node_modules\connect\lib\middleware\methodOverride.js:37:5)

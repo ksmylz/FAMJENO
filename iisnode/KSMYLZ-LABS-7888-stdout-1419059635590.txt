@@ -1,0 +1,136 @@
+Express server listening on port \\.\pipe\a9965c4b-11cf-4d92-8356-e4952b5a56f0
+[90mGET / [32m200 [90m95ms - 2.15kb[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m8ms[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m13ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m14ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m1ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m2ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m19ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m22ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m33ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m49ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m4ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m8ms[0m
+[90mGET /app.js [36m304 [90m4ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m39ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m16ms - 2.15kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m7ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m40ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m6ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m6ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m9ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m6ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m9ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m2ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m14ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m28ms[0m
+[90mGET /app.js [36m304 [90m2ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m4ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m19ms[0m
+[90mGET / [32m200 [90m15ms - 2.15kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m17ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m23ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m71ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m39ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m63ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m87ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [32m200 [90m213ms - 9.41kb[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [32m200 [90m106ms - 1.52kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [32m200 [90m482ms - 97.62kb[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [32m200 [90m535ms - 121.77kb[0m
+[90mGET /angular-material-builds/angular-material.css [32m200 [90m543ms - 101.12kb[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [32m200 [90m352ms - 82.21kb[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [32m200 [90m59ms - 13.06kb[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [32m200 [90m94ms - 17.93kb[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [32m200 [90m195ms - 2.57kb[0m
+[90mGET /angular-material-builds/angular-material.min.js [32m200 [90m405ms - 53.01kb[0m
+[90mGET /app.js [32m200 [90m20ms - 74[0m
+[90mGET /controllers/flipper.js [32m200 [90m37ms - 303[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [32m200 [90m213ms - 39.18kb[0m
+[90mGET /controllers/appCtrl.js [32m200 [90m31ms - 297[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [32m200 [90m524ms - 546.62kb[0m
+[90mGET / [32m200 [90m7ms - 2.15kb[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m23ms[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m56ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m71ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m84ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m95ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m142ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m83ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m104ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m115ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m130ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m140ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m126ms[0m
+[90mGET /app.js [36m304 [90m30ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m49ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m57ms[0m
+[90mGET / [32m200 [90m9ms - 2.15kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m11ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m14ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m37ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m22ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m29ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m34ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m45ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m50ms[0m
+[90mGET /app.js [36m304 [90m11ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m33ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m103ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m116ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m132ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m124ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m10ms[0m
+[90mGET / [32m200 [90m8ms - 2.15kb[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m13ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m22ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m28ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m42ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m48ms[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m51ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m15ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m29ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m43ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m7ms[0m
+[90mGET /app.js [36m304 [90m13ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m36ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m65ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m70ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m42ms[0m
+[90mGET / [32m200 [90m8ms - 2.15kb[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m15ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m19ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m30ms[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m37ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m45ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m72ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m35ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m42ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m46ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m72ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m101ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m110ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m54ms[0m
+[90mGET /app.js [36m304 [90m80ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m107ms[0m
+[90mGET / [32m200 [90m8ms - 2.15kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m11ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m23ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m39ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m48ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m57ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m52ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m33ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m57ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m73ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m87ms[0m
+[90mGET /app.js [36m304 [90m19ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m30ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m42ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m107ms[0m

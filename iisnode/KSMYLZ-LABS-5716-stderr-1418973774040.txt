@@ -1,0 +1,19 @@
+ReferenceError: C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\app\views\index.jade:6
+    4|   h1= title
+    5|   p Welcome to #{title}
+  > 6|   p =  req
+    7| block content
+    8|   fa-app(style="height: 480px; width: 300px; margin: 0;",ng-controller="AppCtrl")
+    9|     fa-view(fa-pipe-from="evt",fa-click="flip()")
+
+req is not defined
+    at eval (eval at <anonymous> (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\jade\lib\jade.js:176:8), <anonymous>:68:10)
+    at C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\jade\lib\jade.js:181:12
+    at Object.exports.render (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\jade\lib\jade.js:216:14)
+    at View.exports.renderFile [as engine] (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\jade\lib\jade.js:243:13)
+    at View.render (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\view.js:75:8)
+    at Function.app.render (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\response.js:753:7)
+    at exports.index (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\app\routes\index.js:8:10)
+    at callbacks (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:161:37)
+    at param (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:135:11)

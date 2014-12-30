@@ -1,0 +1,11 @@
+ReferenceError: document is not defined
+    at exports.index (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\app\routes\index.js:8:95)
+    at callbacks (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:161:37)
+    at param (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:135:11)
+    at pass (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:142:5)
+    at Router._dispatch (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:170:5)
+    at Object.router (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\lib\router\index.js:33:10)
+    at next (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\node_modules\connect\lib\proto.js:199:15)
+    at Object.methodOverride [as handle] (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\node_modules\connect\lib\middleware\methodOverride.js:37:5)
+    at next (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\node_modules\connect\lib\proto.js:199:15)
+    at multipart (C:\Users\Kowayne\Documents\My Web Sites\Express-Ang-Famo Site\node_modules\express\node_modules\connect\lib\middleware\multipart.js:67:61)

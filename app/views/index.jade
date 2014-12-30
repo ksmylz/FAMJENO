@@ -1,0 +1,19 @@
+extends layout
+
+block header
+  h1 total requests #{request}
+  p Welcome to #{title}
+
+block content
+  fa-app(style="height: 480px; width: 300px; margin: 0;",ng-controller="AppCtrl")
+    fa-view(fa-pipe-from="evt",fa-click="flip()")
+     fa-flipper#flipper
+        fa-surface(fa-background-color="'#FF0000'",fa-pipe-to="evt") 
+            md-button.md-raised.md-primary Toggle Blue
+        fa-surface(fa-background-color="'#0000FF'",fa-pipe-to="evt") 
+            md-button.md-raised.md-primary Toggle Red
+block footer
+    fa-app(style="height: 80px; width: 300px; margin: 0;",ng-controller="AppCtrl")
+        fa-view
+            fa-surface(fa-background-color="'#787878'") 
+                md-button.md-raised BACK

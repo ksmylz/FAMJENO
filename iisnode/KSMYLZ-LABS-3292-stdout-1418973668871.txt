@@ -1,0 +1,17 @@
+Express server listening on port \\.\pipe\4cb6222d-d732-40d3-937d-d0e70c617da5
+[90mGET / [36m304 [90m136ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m23ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m47ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m70ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m86ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m98ms[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m128ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m148ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m236ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m263ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m303ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m357ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m369ms[0m
+[90mGET /app.js [36m304 [90m136ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m209ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m225ms[0m

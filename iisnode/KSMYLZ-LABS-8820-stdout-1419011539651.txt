@@ -1,0 +1,49 @@
+Express server listening on port \\.\pipe\8b12c9fb-3ce5-4b2d-9a93-8f373824a7ea
+[90mGET / [32m200 [90m312ms - 2.15kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [32m200 [90m94ms - 97.62kb[0m
+[90mGET /angular-material-builds/angular-material.css [32m200 [90m268ms - 101.12kb[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [32m200 [90m234ms - 9.41kb[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [32m200 [90m79ms - 1.52kb[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [32m200 [90m281ms - 82.21kb[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [32m200 [90m391ms - 121.77kb[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [32m200 [90m193ms - 13.06kb[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [32m200 [90m347ms - 2.57kb[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [32m200 [90m127ms - 17.93kb[0m
+[90mGET /angular-material-builds/angular-material.min.js [32m200 [90m192ms - 53.01kb[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [32m200 [90m149ms - 39.18kb[0m
+[90mGET /app.js [32m200 [90m17ms - 74[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [32m200 [90m491ms - 546.62kb[0m
+[90mGET /controllers/flipper.js [32m200 [90m12ms - 303[0m
+[90mGET /controllers/appCtrl.js [32m200 [90m9ms - 297[0m
+[90mGET / [32m200 [90m16ms - 2.15kb[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m62ms[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m78ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m23ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m17ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m71ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m86ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m41ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m20ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m20ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m5ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m9ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m8ms[0m
+[90mGET /app.js [36m304 [90m20ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m5ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m8ms[0m
+[90mGET / [32m200 [90m17ms - 2.15kb[0m
+[90mGET /angularjs-bootstrap-jquery/bootstrap/css/bootstrap.min.css [36m304 [90m11ms[0m
+[90mGET /angular-material-builds/angular-material.css [36m304 [90m19ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.css [36m304 [90m30ms[0m
+[90mGET /angular-material-builds/themes/light-blue-dark-theme.css [36m304 [90m40ms[0m
+[90mGET /angularjs-bootstrap-jquery/jquery/jquery.min.js [36m304 [90m53ms[0m
+[90mGET /angular-material-builds/bower_components/angular/angular.min.js [36m304 [90m62ms[0m
+[90mGET /angular-material-builds/bower_components/angular-animate/angular-animate.min.js [36m304 [90m35ms[0m
+[90mGET /angular-material-builds/bower_components/angular-aria/angular-aria.min.js [36m304 [90m21ms[0m
+[90mGET /angular-material-builds/angular-material.min.js [36m304 [90m25ms[0m
+[90mGET /angular-material-builds/bower_components/hammerjs/hammer.min.js [36m304 [90m43ms[0m
+[90mGET /controllers/flipper.js [36m304 [90m10ms[0m
+[90mGET /controllers/appCtrl.js [36m304 [90m22ms[0m
+[90mGET /app.js [36m304 [90m30ms[0m
+[90mGET /famous-angular/bower_components/famous/dist/famous-global.js [36m304 [90m53ms[0m
+[90mGET /famous-angular/dist/famous-angular.min.js [36m304 [90m57ms[0m

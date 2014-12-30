@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>iisnode logs</title>
+    <style type="text/css">
+        body
+        {
+            font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+        }
+        table
+        {
+            border-collapse: collapse;
+        }
+        td, th
+        {
+            border: 1px solid lightgray;
+            padding: 3px 7px 2px 7px;
+        }
+        th
+        {
+            text-align: left;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            background-color: Gray;
+            color: #ffffff;
+        }
+        td.stderr
+        {
+            color: Red;
+        }
+    </style>
+</head>
+<body>
+    <table id="logFilesTable">
+        <tr>
+            <th>
+                Computer name
+            </th>
+            <th>
+                PID
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Link
+            </th>
+        </tr>
+    </table>
+    <p id="lastUpdated"></p>
+    <script type="text/javascript">
+
+        // this is replaced with actual data at runtime by code in interceptor.js
+        var logFiles = [{"file":"KSMYLZ-LABS-10628-stdout-1418973878331.txt","computername":"KSMYLZ-LABS","pid":10628,"type":"stdout","created":1418973878331},{"file":"KSMYLZ-LABS-10784-stdout-1418973187190.txt","computername":"KSMYLZ-LABS","pid":10784,"type":"stdout","created":1418973187190},{"file":"KSMYLZ-LABS-11088-stdout-1418973422131.txt","computername":"KSMYLZ-LABS","pid":11088,"type":"stdout","created":1418973422131},{"file":"KSMYLZ-LABS-14588-stdout-1419092611153.txt","computername":"KSMYLZ-LABS","pid":14588,"type":"stdout","created":1419092611153},{"file":"KSMYLZ-LABS-14728-stdout-1418973513851.txt","computername":"KSMYLZ-LABS","pid":14728,"type":"stdout","created":1418973513851},{"file":"KSMYLZ-LABS-15924-stdout-1418973620190.txt","computername":"KSMYLZ-LABS","pid":15924,"type":"stdout","created":1418973620190},{"file":"KSMYLZ-LABS-15936-stderr-1418972910870.txt","computername":"KSMYLZ-LABS","pid":15936,"type":"stderr","created":1418972910870},{"file":"KSMYLZ-LABS-15936-stdout-1418972910851.txt","computername":"KSMYLZ-LABS","pid":15936,"type":"stdout","created":1418972910851},{"file":"KSMYLZ-LABS-1776-stdout-1418973329628.txt","computername":"KSMYLZ-LABS","pid":1776,"type":"stdout","created":1418973329628},{"file":"KSMYLZ-LABS-3292-stdout-1418973668871.txt","computername":"KSMYLZ-LABS","pid":3292,"type":"stdout","created":1418973668871},{"file":"KSMYLZ-LABS-4392-stdout-1418972948769.txt","computername":"KSMYLZ-LABS","pid":4392,"type":"stdout","created":1418972948769},{"file":"KSMYLZ-LABS-536-stderr-1418973214103.txt","computername":"KSMYLZ-LABS","pid":536,"type":"stderr","created":1418973214103},{"file":"KSMYLZ-LABS-536-stdout-1418973214089.txt","computername":"KSMYLZ-LABS","pid":536,"type":"stdout","created":1418973214089},{"file":"KSMYLZ-LABS-552-stdout-1419906097542.txt","computername":"KSMYLZ-LABS","pid":552,"type":"stdout","created":1419906097542},{"file":"KSMYLZ-LABS-5716-stderr-1418973774040.txt","computername":"KSMYLZ-LABS","pid":5716,"type":"stderr","created":1418973774040},{"file":"KSMYLZ-LABS-5716-stdout-1418973774023.txt","computername":"KSMYLZ-LABS","pid":5716,"type":"stdout","created":1418973774023},{"file":"KSMYLZ-LABS-6972-stdout-1418973690622.txt","computername":"KSMYLZ-LABS","pid":6972,"type":"stdout","created":1418973690622},{"file":"KSMYLZ-LABS-7740-stderr-1418972899688.txt","computername":"KSMYLZ-LABS","pid":7740,"type":"stderr","created":1418972899688},{"file":"KSMYLZ-LABS-7888-stdout-1419059635590.txt","computername":"KSMYLZ-LABS","pid":7888,"type":"stdout","created":1419059635590},{"file":"KSMYLZ-LABS-8820-stdout-1419011539651.txt","computername":"KSMYLZ-LABS","pid":8820,"type":"stdout","created":1419011539651},{"file":"KSMYLZ-LABS-9664-stdout-1418973036180.txt","computername":"KSMYLZ-LABS","pid":9664,"type":"stdout","created":1418973036180}];
+        var lastUpdated = 1419906099895;
+        var date = new Date();
+
+        date.setTime(lastUpdated);
+        document.getElementById('lastUpdated').innerHTML = 'Index was last updated ' + date;
+
+        logFiles.sort(function (a, b) {
+            return b.created - a.created;
+        });
+
+        var logFilesTable = document.getElementById("logFilesTable");
+        for (var i = 0; i < logFiles.length; i++) {
+            var logFile = logFiles[i];
+            date.setTime(logFile.created);
+            var row = logFilesTable.insertRow(-1);
+            var computerNameCell = row.insertCell(0);
+            var pidCell = row.insertCell(1);
+            var typeCell = row.insertCell(2);
+            var dateCell = row.insertCell(3);
+            var logCell = row.insertCell(4);
+            computerNameCell.innerHTML = logFile.computername;
+            pidCell.innerHTML = logFile.pid.toString();
+            typeCell.innerHTML = logFile.type;
+            typeCell.setAttribute('class', logFile.type);
+            dateCell.innerHTML = date.toString();
+            logCell.innerHTML = '<a href="' + logFile.file + '">log</a>';
+        };
+
+    </script>
+</body>
+</html>
